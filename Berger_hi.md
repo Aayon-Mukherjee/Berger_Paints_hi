@@ -1,6 +1,6 @@
 **अगर आप हिंदी जारी रखना चाहते हैं तो नीचे दिए गए लिंक पर टैप करें:**
 
-[English]()
+[English](https://github.com/Aayon-Mukherjee/BERGER_PAINTS_en/blob/main/Berger_en.md)
 
 ![Berger Logo](https://seekvectorlogo.net/wp-content/uploads/2018/12/berger-paints-vector-logo.png)
 
